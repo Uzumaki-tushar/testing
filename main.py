@@ -1,7 +1,1 @@
-print("hello world")
-print("hey")
-print("finsished")
-print("ljljljl")
-print("jkljlkjljl")
-print("ehllljl")
-print("hello hhi")
+print("hello")
